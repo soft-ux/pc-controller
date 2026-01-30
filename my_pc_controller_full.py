@@ -14,8 +14,8 @@ import numpy as np
 from pathlib import Path
 
 # === 🔑 ВАШИ ДАННЫЕ ===
-BOT_TOKEN = "8576106789:AAE6JaXlU4F2DXqEevBl6_Z1qdF53Dqu8Bc"
-AUTHORIZED_USER_ID = 889348804
+BOT_TOKEN = "ТОКЕН"
+AUTHORIZED_USER_ID = АЙДИ
 
 # === АВТОУСТАНОВКА ЗАВИСИМОСТЕЙ ===
 try:
